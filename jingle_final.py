@@ -153,7 +153,7 @@ def db():
     win.mainloop()
 
 #GUI 
-p=PhotoImage(file=r'C:\Users\Shridhar Gupta\Downloads\sym.png')
+p=PhotoImage(file=r'assets\sym.png')
 win.iconphoto(False,p)
 win.title("JINGLE")
 
